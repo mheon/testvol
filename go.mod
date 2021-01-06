@@ -1,4 +1,4 @@
-module github.com/mheon/test-volume-plugin
+module github.com/mheon/testvol
 
 go 1.12
 
